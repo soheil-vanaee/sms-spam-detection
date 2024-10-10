@@ -33,7 +33,7 @@ The goal of this project is to classify SMS messages as either "spam" or "ham" (
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/sms-spam-detection.git
+   git clone https://github.com/soheil-vanaee/sms-spam-detection.git
    cd sms-spam-detection
 
 
